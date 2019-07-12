@@ -6,5 +6,6 @@ public class TestDev {
         System.out.println("主线提交1");
         System.out.println("分支提交2");
         System.out.println("分支提交3");
+        System.out.println("主线提交2");
     }
 }

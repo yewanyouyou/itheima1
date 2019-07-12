@@ -6,6 +6,5 @@ public class TestGit {
         System.out.println(112131);
         System.out.println(112131);
         System.out.println(112131);
-        System.out.println("sfsfsf");
     }
 }

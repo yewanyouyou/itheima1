@@ -12,5 +12,6 @@ public class TestGit {
 		System.out.println("wwwwww");
 		System.out.println("hhhhh");
 		System.out.println("hhhhh");
+		System.out.println("yttttt");
     }
 }
